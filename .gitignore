@@ -1,0 +1,15 @@
+#ignore Visual Studio project files
+.vs
+x64
+*.dll
+*.exe
+
+# Visual Studio folders
+[Dd]ebug
+[Rr]elease
+[Bb]in
+[Oo]bj
+
+# Visual Studio user option files
+*.suo
+*.user
